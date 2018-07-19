@@ -1,4 +1,6 @@
 *.pyc
 .idea/*
 venv/*
+EVN/*
+local/*
 .DS_Store
